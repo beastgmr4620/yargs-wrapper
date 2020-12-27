@@ -19,7 +19,7 @@ process.stdin.on('data', (raw) => {
 /**
  * This is a small example of my Yargs wrapper
  * I used this in my applications which simulate a bash-like interface
- * Default Yargs method is still good if you dont build something like me
+ * Default Yargs method is still good if you dont build something like mine
  * This wrapper makes:
  * - handle Yargs shit with Promises
  * - an intuitive way to create more commands
